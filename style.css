@@ -1,0 +1,33 @@
+body{
+  background-image:url("https://th.bing.com/th/id/R.141b36a1c6fee4a956d619805e88cc78?rik=8NgPvqaUgvafQA&riu=http%3a%2f%2feskipaper.com%2fimages%2freal-madrid-13.jpg&ehk=3F32nHQi0VvQk6A%2bkxVr7%2bmbqhMvIqR37Tne873EDrY%3d&risl=&pid=ImgRaw&r=0") ;
+  
+}
+#header{
+  color: rgb(156, 221, 165);
+}
+table, th, td {
+  border: 1px solid;
+}
+#navbarn  {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #3b3d3d;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #000000;
+}
